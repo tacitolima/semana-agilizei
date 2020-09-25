@@ -22,7 +22,7 @@
 
 ## <br /><a name="how-to-use"></a>How to use
 
-Para executar os testes com o `Browser` fechado
+Para executar os testes com o chrome
 
 ```shell
 npm run cy:run:cucumber
